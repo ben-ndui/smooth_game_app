@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "748297860136",
+    "project_id": "smooth-games-app",
+    "storage_bucket": "smooth-games-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748297860136:android:0c75bcdae6132209cbf11d",
+        "android_client_info": {
+          "package_name": "com.smoothandesign.smooth_game_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748297860136-ir7njrr3269kr3nfn1krlq6jbaa99sdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvQ7bAzN8ldpnCHrjANv8Lag7QHaLazQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748297860136-ir7njrr3269kr3nfn1krlq6jbaa99sdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748297860136-r4eqrlqtaftc8grnhniipkqo038e2kag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smoothandesign.smoothGames"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748297860136:android:482ef8e20dfb427ecbf11d",
+        "android_client_info": {
+          "package_name": "com.smoothandesign.smooth_games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748297860136-ir7njrr3269kr3nfn1krlq6jbaa99sdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvQ7bAzN8ldpnCHrjANv8Lag7QHaLazQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748297860136-ir7njrr3269kr3nfn1krlq6jbaa99sdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748297860136-r4eqrlqtaftc8grnhniipkqo038e2kag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smoothandesign.smoothGames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

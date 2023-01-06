@@ -1,0 +1,4 @@
+enum SmoothThemeType {
+  dark,
+  light,
+}
